@@ -2,12 +2,14 @@
 
 ## Startup Sequence
 
--describe-how-your-modules-interact-to-start
+Ragistration
+Ball hitting
+scoreChecker
+TimeCount
+WinerScore
 
 ## Movement Initiation
 
--describe-how-modules-interact-to-make-the-ball-move
+Need to declare ball speed
 
-## One score
 
--describe-how-the-modules-interact-to-record-scores
