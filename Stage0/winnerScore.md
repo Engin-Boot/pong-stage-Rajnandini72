@@ -1,4 +1,4 @@
-# Diaply the Score And announce the Winner
+# Disply the Score And announce the Winner
 
 ## Feature
 It will announce the winner after specific time elapse depending on  score of both players
@@ -12,8 +12,4 @@ Score Counter counting score neetly
   
   When: Specific time interval has pass,
   
-  Then: Check which player has higher score and New window will pop up with message
-                                            "Winner
-                                       Congratulations!!!
-                                           Player(1 or 2)"
-
+  Then: Check which player has higher score and New window will pop up with message" Winner Congratulation!! Player(1 or 2)
