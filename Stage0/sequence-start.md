@@ -9,7 +9,4 @@ TimeCount
 WinerScore
 
 ## Movement Initiation
-
 Need to declare ball speed
-
-
