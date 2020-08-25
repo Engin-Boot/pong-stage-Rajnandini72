@@ -1,7 +1,7 @@
 # Disply the Score And announce the Winner
 
 ## Feature
-It will announce the winner after specific time elapse depending on  score of both players
+It will announce the winner after specific time elapse 
 
 ## Acceptance Criteria
 Score Counter counting score neetly
@@ -12,4 +12,4 @@ Score Counter counting score neetly
   
   When: Specific time interval has pass,
   
-  Then: Check which player has higher score and New window will pop up with message" Winner Congratulation!! Player(1 or 2)
+  Then: Check higher score and pop up message"Congratulation!!"
